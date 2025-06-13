@@ -1,11 +1,8 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=200&section=header" />
-</p>
+<p align="center">Backend-Focused Software Developer | DevOps & QA </p>
+
+---
 
 ### 🧑‍💻 About Me
-
-<p align="center">Backend-Focused Software Developer | DevOps & QA </p>
 
 - 🔍 Result-driven developer with a strong background in backend systems, DevOps automation, and real-time application development.
 - 🧠 Delivered scalable APIs, Docker-integrated CI/CD pipelines, and YOLO-based computer vision systems.
@@ -24,25 +21,25 @@
 
 #### Languages & Frameworks
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 #### Tools & Platforms
 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
-![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat&logo=azuredevops)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
-![YOLO](https://img.shields.io/badge/-YOLOv5/8-F9DC3E?style=flat&logo=openai)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
-![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv5%2Fv8-111111?style=for-the-badge&logo=github&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 ---
 
@@ -83,7 +80,3 @@ Contributed to Unity-based internal projects by developing tile-based logic, cus
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/murat-duman-eu/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/xofyy)  
 📬 **dumanmurat9@gmail.com**
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=footer" />
-</p>
