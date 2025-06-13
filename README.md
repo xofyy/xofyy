@@ -49,7 +49,7 @@
 #### 🐳 Docker Monitoring & CI/CD Dashboard  
 Developed a Python-based system that monitors outdated Docker images using Docker SDK and Azure DevOps REST API. Automatically triggered pipeline updates and provided a real-time UI for observability.
 
-#### 🧠 YOLOv5/YOLOv8 Object Detection API  
+#### 🧠 YOLOv8 Object Detection API  
 Built a computer vision service using YOLO models and FastAPI. Integrated OpenCV and NumPy for detection and segmentation, with a local interface to visualize outputs.
 
 #### 🧩 PLC Sensor & Motor Interface  
