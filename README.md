@@ -3,19 +3,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=200&section=header" />
 </p>
 
-<h2 align="center">Hi 👋</h2>
-<p align="center">Backend-Oriented Software Developer | DevOps & QA Focused</p>
-
----
-
 ### 🧑‍💻 About Me
+
+<p align="center">Backend-Focused Software Developer | DevOps & QA </p>
 
 - 🔍 Result-driven developer with a strong background in backend systems, DevOps automation, and real-time application development.
 - 🧠 Delivered scalable APIs, Docker-integrated CI/CD pipelines, and YOLO-based computer vision systems.
 - 🖥️ Specialized in backend-heavy solutions integrated with physical hardware (e.g., sensors, motors, serial devices) and dynamic dashboards for operational visibility.
 - 📊 Passionate about combining software, hardware, and cloud platforms in production environments.
 
-**🧪 QA & DevOps Focus:**
+**🧪 QA & DevOps:**
 
 - Built and maintained automated pipelines using Azure DevOps (YAML-based).
 - Developed containerized services and custom tools for real-time Docker image monitoring.
