@@ -48,22 +48,22 @@
 ### 💼 Featured Projects
 
 #### 🐳 Docker Monitoring & CI/CD Dashboard  
-Developed a Python-based system that monitors outdated Docker images using Docker SDK and Azure DevOps REST API. Automatically triggered pipeline updates and provided a real-time UI for observability.
+Developed a `Python`-based system that monitors outdated Docker images using `Docker SDK` and `Azure DevOps` `REST API`. Automatically triggered pipeline updates and provided a real-time UI for observability.
 
 #### 🧠 YOLOv8 Object Detection API  
-Built a computer vision service using YOLO models and FastAPI. Integrated OpenCV and NumPy for detection and segmentation, with a local interface to visualize outputs.
+Built a computer vision service using `YOLO` models and `FastAPI`. Integrated `OpenCV` and `NumPy` for detection and segmentation, with a local interface to visualize outputs.
 
 #### 🧩 PLC Sensor & Motor Interface  
-Created a Node.js application to interact with industrial sensors/motors via SerialPort. Included a web-based control dashboard for real-time monitoring and logic execution.
+Created a `Node.js` application to interact with industrial sensors/motors via SerialPort. Included a web-based control dashboard for real-time monitoring and logic execution.
 
 #### 📡 QR/Barcode Scanner Integration  
 Engineered a backend service in `Node.js` that listens to barcode scanner serial outputs, parses data dynamically, and routes it through secure Express APIs. Developed an embedded monitoring dashboard for scan activity, diagnostics, and data forwarding.
 
 #### 📱 React Native RVM App  
-Designed a mobile app for Reverse Vending Machine users with Firebase authentication and real-time transaction tracking via Firestore.
+Designed a mobile app for Reverse Vending Machine users with `Firebase` authentication and real-time transaction tracking via `Firestore`.
 
 #### 🎮 Unity Game Development  
-Contributed to Unity-based internal projects by developing tile-based logic, custom UI systems, and interactive game mechanics.
+Contributed to `Unity`-based internal projects by developing tile-based logic, custom UI systems, and interactive game mechanics.
 
 ---
 
