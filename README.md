@@ -56,8 +56,8 @@ Built a computer vision service using YOLO models and FastAPI. Integrated OpenCV
 #### 🧩 PLC Sensor & Motor Interface  
 Created a Node.js application to interact with industrial sensors/motors via SerialPort. Included a web-based control dashboard for real-time monitoring and logic execution.
 
-#### 📡 QR/Barcode Parser with API Routing  
-Captured and processed serial data streams from barcode scanners. Routed outputs to backend services via secure API endpoints, and visualized scanning metrics in a custom dashboard.
+#### 📡 QR/Barcode Scanner Integration  
+Engineered a backend service in `Node.js` that listens to barcode scanner serial outputs, parses data dynamically, and routes it through secure Express APIs. Developed an embedded monitoring dashboard for scan activity, diagnostics, and data forwarding.
 
 #### 📱 React Native RVM App  
 Designed a mobile app for Reverse Vending Machine users with Firebase authentication and real-time transaction tracking via Firestore.
