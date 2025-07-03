@@ -70,6 +70,7 @@ Contributed to `Unity`-based internal projects by developing tile-based logic, c
 ### 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=xofyy&theme=tokyonight&hide_border=true" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xofyy&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api?username=xofyy&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xofyy&layout=compact&theme=tokyonight&hide_border=true" />
