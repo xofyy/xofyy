@@ -1,103 +1,66 @@
-<p align="center">Backend-Focused Software Developer | DevOps & QA </p>
+<div align="center">
+  <h1>Murat Duman</h1>
+  <p>Software Developer | DevOps & Cloud | Backend Systems</p>
+  
+  <p>
+    I develop backend services, manage cloud infrastructure, and build integrations for physical hardware.
+  </p>
+
+  [LinkedIn](https://www.linkedin.com/in/murat-duman-eu/) • [Email](mailto:dumanmurat9@gmail.com)
+</div>
 
 ---
 
-### 🧑‍💻 About Me
+### 🔎 About Me
 
-- 🔍 Result-driven developer with a strong background in backend systems, DevOps automation, and real-time application development.
-- 🧠 Delivered scalable APIs, Docker-integrated CI/CD pipelines, and YOLO-based computer vision systems.
-- 🖥️ Specialized in backend-heavy solutions integrated with physical hardware (e.g., sensors, motors, serial devices) and dynamic dashboards for operational visibility.
-- 📊 Passionate about combining software, hardware, and cloud platforms in production environments.
-
-**🧪 QA & DevOps:**
-
-- Built and maintained automated pipelines using Azure DevOps (YAML-based).
-- Developed containerized services and custom tools for real-time Docker image monitoring.
-- Implemented API testing, CI/CD validation steps, and real-time QA dashboards.
+I am a developer who focuses on building functional and reliable systems. My experience ranges from setting up cloud environments with Terraform to writing code that communicates with serial ports on local machines. I use the right tool for the job, whether it's Java for enterprise backends, Node.js for I/O heavy tasks, or Python for automation and AI.
 
 ---
 
 ### 🛠️ Tech Stack
 
-#### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-#### DevOps, Cloud & IaC
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-
-#### Databases & Data
-![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-#### Platforms & OS
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-#### Other
-![YOLOv8](https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge&logo=github&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+| **Category** | **Technologies** |
+| :--- | :--- |
+| **Languages** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
+| **Backend Frameworks** | ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900) ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white) |
+| **Databases & Data** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) |
+| **Desktop & Hardware** | ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white) ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![SerialPort](https://img.shields.io/badge/-SerialPort-000000?style=flat-square) |
 
 ---
 
-### 💼 Featured Projects
+### 📂 Projects
 
-#### 🐳 Docker Monitoring & CI/CD Dashboard  
-Developed a `Python`-based system that monitors outdated Docker images using `Docker SDK` and `Azure DevOps` `REST API`. Automatically triggered pipeline updates and provided a real-time UI for observability.
+**Push Notification Service**
+* **What it does:** Sends notifications to iOS (APNs), Android (FCM), and Web browsers.
+* **Tech:** NestJS, TypeScript, Redis (BullMQ), MongoDB.
+* **Detail:** Handles job queues and device token management for multiple platforms.
 
-#### 🧠 YOLOv8 Object Detection API  
-Built a computer vision service using `YOLO` models and `FastAPI`. Integrated `OpenCV` and `NumPy` for detection and segmentation, with a local interface to visualize outputs.
+**Last-Mile Delivery Backend**
+* **What it does:** Assigns couriers to orders based on location and manages delivery status.
+* **Tech:** Java 21, Spring Boot 3, PostGIS, RabbitMQ.
+* **Detail:** Uses spatial data for distance calculations and events for asynchronous updates.
 
-#### 🧩 PLC Sensor & Motor Interface  
-Created a `Node.js` application to interact with industrial sensors/motors via SerialPort. Included a web-based control dashboard for real-time monitoring and logic execution.
+**Fault Diagnosis Assistant (AI)**
+* **What it does:** Suggests solutions for vehicle faults based on user descriptions.
+* **Tech:** .NET 10, Llama 3.1 (Local LLM), Qdrant (Vector DB).
+* **Detail:** Implements RAG (Retrieval-Augmented Generation) to search technical documents.
 
-#### 📡 QR/Barcode Scanner Integration  
-Engineered a backend service in `Node.js` that listens to barcode scanner serial outputs, parses data dynamically, and routes it through secure Express APIs. Developed an embedded monitoring dashboard for scan activity, diagnostics, and data forwarding.
+**SmartPOS Lite**
+* **What it does:** An offline desktop application for retail sales and stock management.
+* **Tech:** Electron, React, SQLite, SerialPort.
+* **Detail:** Communicates directly with barcode scanners and POS hardware via USB/Serial.
 
-#### 📱 React Native RVM App  
-Designed a mobile app for Reverse Vending Machine users with `Firebase` authentication and real-time transaction tracking via `Firestore`.
-
-#### 🎮 Unity Game Development  
-Contributed to `Unity`-based internal projects by developing tile-based logic, custom UI systems, and interactive game mechanics.
+**Industrial Sensor Interface**
+* **What it does:** Reads data from PLC-controlled sensors and visualizes it on a dashboard.
+* **Tech:** Node.js, Express, SerialPort.
+* **Detail:** Bridges the gap between industrial serial devices and modern web APIs.
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=xofyy&theme=tokyonight&hide_border=true" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xofyy&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api?username=xofyy&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xofyy&layout=compact&theme=tokyonight&hide_border=true" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=xofyy&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xofyy&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="45%" />
 </p>
-
----
-
-### 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/murat-duman-eu/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/xofyy)  
-📬 **dumanmurat9@gmail.com**
